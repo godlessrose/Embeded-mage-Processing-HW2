@@ -25,10 +25,47 @@ The following questions are implemented in STM32 CUBE IDE:
 - Q4-b) Use the grayscale image formed in the previous question. Apply median filtering to it. Show f iltered image entries (at least some of them) on STM32Cube IDE. 
 ---
 
+
+### grayscale image of our choice
+<br/>
+<div align="center">
+  <img src="images hw2\image.bmp" width="80%">
+</div>
+
 ## Answers
 
-### Q1-a/Q1-b)
+### Q1-b/Q2-c)
 <br/>
 <div align="center">
   <img src="images hw2\02.png" width="80%">
+</div>
+
+### Q2-a)
+<br/>
+<div align="center">
+  <img src="images hw2\hisEQ.png" width="80%">
+</div>
+
+### Q2-b)
+<br/>
+<div align="center">
+  <img src="images hw2\hp.bmp" width="80%">
+</div>
+
+### Q3-a)
+<br/>
+<div align="center">
+  <img src="images hw2\lp.bmp" width="80%">
+</div>
+
+### Q3-b/Q3-c/Q4-b)
+<br/>
+<div align="center">
+  <img src="images hw2\o1.png" width="80%">
+</div>
+
+### Q4-a)
+<br/>
+<div align="center">
+  <img src="images hw2\median.bmp" width="80%">
 </div>
